@@ -3,4 +3,4 @@
 
 Data source: https://ourworldindata.org/covid-deaths up to April 2021<br>
 For more details, see the sql file <br>
-![SQL File](SQL_Project_SEA_Data Exploration.sql)
+![SQL File](/SQLProject_Covid19_Data_Exploration/SQL_Project_SEA_Data Exploration.sql)
