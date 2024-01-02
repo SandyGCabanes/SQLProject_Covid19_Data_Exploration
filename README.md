@@ -8,4 +8,4 @@ For the insights and findings from the data exploration, see the [excel file](ht
 
 Many thanks to AlexTheAnalyst for encouraging us to create our own queries based on his guided project on YouTube.<br>
 
-<span style="color:#00A3E1">This project is mainly focused on Southeast Asian Countries, but the Global findings are based on all countries.</span><br>
+This project is mainly focused on Southeast Asian Countries, but the Global findings are based on all countries.
