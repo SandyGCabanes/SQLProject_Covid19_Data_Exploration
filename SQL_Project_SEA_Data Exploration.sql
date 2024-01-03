@@ -1,7 +1,7 @@
 /*
 Covid 19 Data Exploration 
 Data source: https://ourworldindata.org/covid-deaths up to April 2021
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Casting data types
 For insights, see: Findings from SQL data explorations.xlsx
 */
 
